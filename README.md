@@ -9,3 +9,12 @@ Note that using pre-defined alogrithms (insertion sort, bubble sort, binary sort
 Expected Output:
 1. Code
 2. Set of testcases (sample number sets)
+
+**Solution:**
+
+```
+➜ git clone https://github.com/yasin-cs-ko-ak/sort-my-numbers.git
+➜ cd sort-my-numbers
+➜ go run sort-my-numbers.go 0-65535.txt >> output.txt
+```
+See the output.txt for the output.
